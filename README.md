@@ -11,6 +11,18 @@ You need these versions of the mods:
 
 [HWYLA](https://www.curseforge.com/minecraft/mc-mods/hwyla/download/2777880)
 
+
+[minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/download/2800303)
+
+[world map[(https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/download/2784227)
+
+[fast leaf decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/download/2758874)
+
+[clumps](https://www.curseforge.com/minecraft/mc-mods/clumps/download/2741398)
+
+[fence jumper](https://www.curseforge.com/minecraft/mc-mods/fence-jumper/download/2753539)
+
+
 # Forge
 
 Install forge (client, choose your `%appdata%\.minecraft\` game directory and install it)
