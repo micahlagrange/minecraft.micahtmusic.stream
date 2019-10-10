@@ -14,7 +14,7 @@ You need these versions of the mods:
 
 [minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/download/2800303)
 
-[world map[(https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/download/2784227)
+[world map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/download/2784227)
 
 [fast leaf decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/download/2758874)
 
