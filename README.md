@@ -3,9 +3,13 @@
 
 You need these versions of the mods:
 
-Neat: [neat 1.14.4](https://www.curseforge.com/minecraft/mc-mods/neat/download/2755569)
+[Neat](https://www.curseforge.com/minecraft/mc-mods/neat/download/2755569)
 
-AppleSkin: [appleskin 1.14.4](https://www.curseforge.com/minecraft/mc-mods/appleskin/download/2755633)
+[AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin/download/2755633)
+
+[Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei/download/2804030)
+
+[HWYLA](https://www.curseforge.com/minecraft/mc-mods/hwyla/download/2777880)
 
 # Forge
 
