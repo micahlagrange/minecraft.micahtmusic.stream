@@ -25,3 +25,5 @@ You need this version of forge: [forge for minecraft 1.14.4](https://files.minec
 - select the game version from the list named release `1.14.4-forge-28.1.0`
 - save and close the launcher
 - download all the mod jar files and put them in `%appdata%\.minecraft\mods` directory (just create it if it doesn't exist, as long as you already installed forge)
+
+From now on you can pick minecraft.micahtmusic.stream from the launcher versions list, or click Play from the installations tab
