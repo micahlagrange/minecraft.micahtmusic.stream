@@ -47,6 +47,8 @@ From now on you can pick minecraft.micahtmusic.stream from the launcher versions
 
 # Known issues
 
+### red X
+
 I can't install xaeros minimap on the server, so if you have it installed at the client, it will show a red X before you join.
 
 Minimap still works though! Even if it is just installed on the client.
