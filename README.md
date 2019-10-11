@@ -54,3 +54,13 @@ I can't install xaeros minimap on the server, so if you have it installed at the
 Minimap **still works** though! Even if it is just installed on the client.
 
 Once they fix the mod for 1.14.4 it will likely go away.
+
+
+
+# Mods I'm Testing
+
+https://www.curseforge.com/minecraft/mc-mods/iron-chests/files
+
+https://www.curseforge.com/minecraft/mc-mods/storage-drawers/files
+
+https://www.curseforge.com/minecraft/mc-mods/fastworkbench
