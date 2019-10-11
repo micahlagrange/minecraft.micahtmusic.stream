@@ -12,8 +12,6 @@ You need these versions of the mods:
 [HWYLA](https://www.curseforge.com/minecraft/mc-mods/hwyla/download/2777880)
 
 
-[minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/download/2800303)
-
 [world map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/download/2784227)
 
 [fast leaf decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/download/2758874)
@@ -43,3 +41,7 @@ You need this version of forge: [forge for minecraft 1.14.4](https://files.minec
 - download all the mod jar files and put them in `%appdata%\.minecraft\mods` directory (just create it if it doesn't exist, as long as you already installed forge)
 
 From now on you can pick minecraft.micahtmusic.stream from the launcher versions list, or click Play from the installations tab
+
+### testing these mods currently, they will be added when they work
+
+[minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/download/2800303)
