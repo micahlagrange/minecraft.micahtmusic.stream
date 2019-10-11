@@ -43,3 +43,12 @@ You need this version of forge: [forge for minecraft 1.14.4](https://files.minec
 
 From now on you can pick minecraft.micahtmusic.stream from the launcher versions list, or click Play from the installations tab
 
+
+
+# Known issues
+
+I can't install xaeros minimap on the server, so if you have it installed at the client, it will show a red X before you join.
+
+Minimap still works though! Even if it is just installed on the client.
+
+Once they fix the mod for 1.14.4 it will likely go away.
