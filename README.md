@@ -11,7 +11,7 @@ You need these versions of the mods:
 
 [HWYLA](https://www.curseforge.com/minecraft/mc-mods/hwyla/download/2777880)
 
-[minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/download/2806454)
+[minimap](http://chocolateminecraft.com/minimapdownload.php) get 1.14.4
 
 [world map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/download/2784227)
 
