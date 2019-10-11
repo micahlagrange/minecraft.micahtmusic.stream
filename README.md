@@ -11,6 +11,7 @@ You need these versions of the mods:
 
 [HWYLA](https://www.curseforge.com/minecraft/mc-mods/hwyla/download/2777880)
 
+[minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/download/2806454)
 
 [world map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/download/2784227)
 
@@ -42,6 +43,3 @@ You need this version of forge: [forge for minecraft 1.14.4](https://files.minec
 
 From now on you can pick minecraft.micahtmusic.stream from the launcher versions list, or click Play from the installations tab
 
-### testing these mods currently, they will be added when they work
-
-[minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/download/2800303)
