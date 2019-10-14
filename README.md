@@ -59,8 +59,12 @@ Once they fix the mod for 1.14.4 it will likely go away.
 
 # Mods I'm Testing
 
-https://www.curseforge.com/minecraft/mc-mods/iron-chests/files
+https://www.curseforge.com/minecraft/mc-mods/iron-chests
 
-https://www.curseforge.com/minecraft/mc-mods/storage-drawers/files
+https://www.curseforge.com/minecraft/mc-mods/storage-drawers
 
 https://www.curseforge.com/minecraft/mc-mods/fastworkbench
+
+https://www.curseforge.com/minecraft/mc-mods/light-overlay
+
+https://www.curseforge.com/minecraft/mc-mods/light-overlay
