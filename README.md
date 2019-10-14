@@ -72,3 +72,5 @@ https://www.curseforge.com/minecraft/mc-mods/corail-tombstone
 https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl/
 
 https://www.curseforge.com/minecraft/mc-mods/ruins-structure-spawning-system
+
+https://www.curseforge.com/minecraft/mc-mods/pizzacraft
