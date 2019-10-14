@@ -67,4 +67,4 @@ https://www.curseforge.com/minecraft/mc-mods/fastworkbench
 
 https://www.curseforge.com/minecraft/mc-mods/light-overlay
 
-https://www.curseforge.com/minecraft/mc-mods/light-overlay
+https://www.curseforge.com/minecraft/mc-mods/corail-tombstone
