@@ -82,6 +82,8 @@ https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
 
 # Links for the Lazy
 
+### minecraft.micahtmusic.stream mod pack
+
 - After installing [forge 28.1.0](https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.4-28.1.0/forge-1.14.4-28.1.0-installer.jar) download the mod jar files and put them in your `%appdata%\.minecraft\mods` folder
     - [minecraft.micahtmusic.stream modpack](https://raw.githubusercontent.com/micahlagrange/minecraft.micahtmusic.stream/master/modpacks/minecraft.micahtmusic.stream-mods.rar)
 
