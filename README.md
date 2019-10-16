@@ -76,3 +76,5 @@ https://www.curseforge.com/minecraft/mc-mods/ruins-structure-spawning-system
 https://www.curseforge.com/minecraft/mc-mods/pizzacraft
 
 https://www.curseforge.com/minecraft/mc-mods/apotheosis/
+
+https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
