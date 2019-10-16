@@ -1,7 +1,6 @@
 # minecraft.micahtmusic.stream
 
-
-You need these versions of the mods:
+See the links at the bottom of the page to just easily download the mod pack. Otherwise, If you want to download the yourself, you need these versions of the mods:
 
 [Neat](https://www.curseforge.com/minecraft/mc-mods/neat/download/2755569)
 
@@ -78,3 +77,18 @@ https://www.curseforge.com/minecraft/mc-mods/pizzacraft
 https://www.curseforge.com/minecraft/mc-mods/apotheosis/
 
 https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
+
+
+
+### Mod pack
+
+- After installing [forge 28.1.0](https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.4-28.1.0/forge-1.14.4-28.1.0-installer.jar) download the mod jar files and put them in your `%appdata%\.minecraft\mods` folder
+    - [minecraft.micahtmusic.stream modpack](https://raw.githubusercontent.com/micahlagrange/minecraft.micahtmusic.stream/modpacks/minecraft.micahtmusic.stream-mods.rar)
+
+### Aternos mod pack
+
+I also have a free aternos server at `multivoxmuse.aternos.me` that shuts itself down after a few minutes, so if we want to play I need to start it.
+
+- After installing [forge 28.1.56](https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.4-28.1.56/forge-1.14.4-28.1.56-installer.jar), download the mod jar files and put them in your `%appdata%\.minecraft\mods` folder:
+    - [aternos modpack](https://raw.githubusercontent.com/micahlagrange/minecraft.micahtmusic.stream/modpacks/multivoxmuse-aternos-mods.rar)
+
