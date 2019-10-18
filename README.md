@@ -58,46 +58,46 @@ Once they fix the mod for 1.14.4 it will likely go away.
 
 # Mods I'm Testing
 
-https://www.curseforge.com/minecraft/mc-mods/iron-chests
+  - https://www.curseforge.com/minecraft/mc-mods/iron-chests
 
-https://www.curseforge.com/minecraft/mc-mods/storage-drawers
+  - https://www.curseforge.com/minecraft/mc-mods/storage-drawers
 
-https://www.curseforge.com/minecraft/mc-mods/fastworkbench
+  - https://www.curseforge.com/minecraft/mc-mods/fastworkbench
 
-https://www.curseforge.com/minecraft/mc-mods/light-overlay
+  - https://www.curseforge.com/minecraft/mc-mods/light-overlay
 
-https://www.curseforge.com/minecraft/mc-mods/corail-tombstone
+  - https://www.curseforge.com/minecraft/mc-mods/corail-tombstone
 
-https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl/
+  - https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl/
 very very nice
 
-https://www.curseforge.com/minecraft/mc-mods/ruins-structure-spawning-system
+  - https://www.curseforge.com/minecraft/mc-mods/ruins-structure-spawning-system
 so cool
 
-https://www.curseforge.com/minecraft/mc-mods/pizzacraft
+  - https://www.curseforge.com/minecraft/mc-mods/pizzacraft
 pizza!
 
-https://www.curseforge.com/minecraft/mc-mods/apotheosis/
+  - https://www.curseforge.com/minecraft/mc-mods/apotheosis/
 enchants!
 
-https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
+  - https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
 world gen
 
-https://www.curseforge.com/minecraft/mc-mods/equipment-tooltips
+  - https://www.curseforge.com/minecraft/mc-mods/equipment-tooltips
 Stat icons for quickly comparing tools, weapons, and armor
 
-https://www.curseforge.com/minecraft/mc-mods/ore-excavation
+  - https://www.curseforge.com/minecraft/mc-mods/ore-excavation
 A lightweight veinminer alternative
 
-https://www.curseforge.com/minecraft/mc-mods/the-one-probe
+  - https://www.curseforge.com/minecraft/mc-mods/the-one-probe
 More immersive alternative for WAILA
 
-https://www.curseforge.com/minecraft/mc-mods/simple-farming
+  - https://www.curseforge.com/minecraft/mc-mods/simple-farming
 Simple Farming
 
-https://www.curseforge.com/minecraft/mc-mods/inventory-sorter
+  - https://www.curseforge.com/minecraft/mc-mods/inventory-sorter
 
-https://www.curseforge.com/minecraft/mc-mods/fps-reducer
+  - https://www.curseforge.com/minecraft/mc-mods/fps-reducer
 FPS Reducer
 Reduce GPU and CPU usage automatically when no user operation exists.
 
