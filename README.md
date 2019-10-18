@@ -92,6 +92,19 @@ A lightweight veinminer alternative
 https://www.curseforge.com/minecraft/mc-mods/the-one-probe
 More immersive alternative for WAILA
 
+https://www.curseforge.com/minecraft/mc-mods/simple-farming
+Simple Farming
+
+https://www.curseforge.com/minecraft/mc-mods/inventory-sorter
+
+https://www.curseforge.com/minecraft/mc-mods/fps-reducer
+FPS Reducer
+Reduce GPU and CPU usage automatically when no user operation exists.
+
+
+
+
+
 # Links for the Lazy
 
 ### minecraft.micahtmusic.stream mod pack
