@@ -69,16 +69,22 @@ https://www.curseforge.com/minecraft/mc-mods/light-overlay
 https://www.curseforge.com/minecraft/mc-mods/corail-tombstone
 
 https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl/
-
+very very nice
 https://www.curseforge.com/minecraft/mc-mods/ruins-structure-spawning-system
-
+so cool
 https://www.curseforge.com/minecraft/mc-mods/pizzacraft
-
+pizza!
 https://www.curseforge.com/minecraft/mc-mods/apotheosis/
-
+enchants!
 https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
+world gen
 
-
+https://www.curseforge.com/minecraft/mc-mods/equipment-tooltips
+Stat icons for quickly comparing tools, weapons, and armor
+https://www.curseforge.com/minecraft/mc-mods/ore-excavation
+A lightweight veinminer alternative
+https://www.curseforge.com/minecraft/mc-mods/the-one-probe
+More immersive alternative for WAILA
 
 # Links for the Lazy
 
