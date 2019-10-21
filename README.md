@@ -1,7 +1,9 @@
 # minecraft.micahtmusic.stream
 
 **Connection info**: minecraft.micahtmusic.stream:6096
+
 **Discord**: https://discord.gg/8rVAA5v
+
 ---
 
 # Mods / modpacks
