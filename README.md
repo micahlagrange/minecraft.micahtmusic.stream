@@ -8,8 +8,9 @@ Connection info: minecraft.micahtmusic.stream:6096
 
 ### If you don't use twitch app
 
-- Optifine: If you can use it on your PC, use [this version of optifine](https://raw.githubusercontent.com/micahlagrange/minecraft.micahtmusic.stream/master/modpacks/minebuddies-optifine.jar)
-  -  Don't run the jar, just put it in your mods directory
+- Optifine: If you can use it on your PC, use [this version of optifine](https://optifine.net/adloadx?f=preview_OptiFine_1.14.4_HD_U_F4_pre11.jar)
+  - Just don't click the ad, OK?
+  - Instead of running the jar, just put it in your mods directory
 
 - Forge: [28.1.56](https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.4-28.1.56/forge-1.14.4-28.1.56-installer.jar)
   - Run the jar and install the client, it will just install along side regular minecraft and all the other forge versions
