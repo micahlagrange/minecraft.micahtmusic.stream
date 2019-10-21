@@ -14,7 +14,7 @@ Connection info: minecraft.micahtmusic.stream:6096
 - Forge: [28.1.56](https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.4-28.1.56/forge-1.14.4-28.1.56-installer.jar)
   - Run the jar and install the client, it will just install along side regular minecraft and all the other forge versions
 
-- Mod pack: [minebuddies modpack](https://raw.githubusercontent.com/micahlagrange/minecraft.micahtmusic.stream/master/modpacks/minebuddies-modpack.zip)
+- Mod pack: [minebuddies modpack zip](https://raw.githubusercontent.com/micahlagrange/minecraft.micahtmusic.stream/master/modpacks/minebuddies-modpack.zip)
   - download the mod jar files and put them in your mods folder
 
 ### If you use twitch
