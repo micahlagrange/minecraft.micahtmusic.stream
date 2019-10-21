@@ -1,48 +1,82 @@
 # minecraft.micahtmusic.stream
 
-See the links at the bottom of the page to just easily download the mod pack. Otherwise, If you want to download the yourself, you need these versions of the mods:
+Connection info: minecraft.micahtmusic.stream:6096
 
-[Neat](https://www.curseforge.com/minecraft/mc-mods/neat/download/2755569)
+---
 
-[AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin/download/2755633)
+# Mods / modpacks
 
-[Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei/download/2804030)
+### If you don't use twitch app
 
-[HWYLA](https://www.curseforge.com/minecraft/mc-mods/hwyla/download/2777880)
+- Optifine: If you can use it on your PC, use [this version of optifine](https://raw.githubusercontent.com/micahlagrange/minecraft.micahtmusic.stream/master/modpacks/minebuddies-optifine.jar)
+  -  Don't run the jar, just put it in your mods directory
 
-[minimap](http://chocolateminecraft.com/minimapdownload.php) get 1.14.4
+- Forge: [28.1.56](https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.4-28.1.56/forge-1.14.4-28.1.56-installer.jar)
+  - Run the jar and install the client, it will just install along side regular minecraft and all the other forge versions
 
-[world map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/download/2784227)
+- Mod pack: [minebuddies modpack](https://raw.githubusercontent.com/micahlagrange/minecraft.micahtmusic.stream/master/modpacks/minebuddies-modpack.zip)
+  - download the mod jar files and put them in your mods folder
 
-[fast leaf decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/download/2758874)
+### If you use twitch
 
-[clumps](https://www.curseforge.com/minecraft/mc-mods/clumps/download/2741398)
+- Search for our [modpack](https://www.curseforge.com/minecraft/modpacks/minebuddies)
 
-[fence jumper](https://www.curseforge.com/minecraft/mc-mods/fence-jumper/download/2753539)
+---
+
+Here is the list of mods we are currently using:
+
+[Neat](https://www.curseforge.com/minecraft/mc-mods/neat/)
+Shows health and name above mods heads
+
+[AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin/)
+No wondering how hungry you are 
+
+[Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei/)
+How did I ever play the game without this installed?
+
+[minimap](http://chocolateminecraft.com/minimapdownload.php)
+Optional
+
+[world map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/)
+Absolutely essential
+
+[fast leaf decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/)
+No more waiting for leaves to despawn
+
+[clumps](https://www.curseforge.com/minecraft/mc-mods/clumps/)
+Faster server performance
+
+[fence jumper](https://www.curseforge.com/minecraft/mc-mods/fence-jumper/)
+Dang fences can be jumped now
+
+[corail tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
+Dying is still a pain, but this makes it more fun maybe?
+
+[dungeon crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl/)
+Added sweet dungeons that we are working on raiding to the bottom level for that sweet loot
+
+[the one probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
+Shows what your retical is pointing at
+
+[Simple arming](https://www.curseforge.com/minecraft/mc-mods/simple-farming)
+Simple Farming. Right click to harvest and there are new veggies and shit
+
+[Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis/)
+No more restrictions on enchantments, new enchantments, crazy strong ones
+[Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+World generation with new biome types
+
+[FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)
+Reduce GPU and CPU usage automatically when no user operation exists
+
+[Inventory sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)
+Sort a chest or your hotbar, or your inventory
+
+[Equipment tooltips](https://www.curseforge.com/minecraft/mc-mods/equipment-tooltips)
+Stat icons for quickly comparing tools, weapons, and armor
 
 
-# Forge
-
-Install forge (client, choose your `%appdata%\.minecraft\` game directory and install it)
-
-You need this version of forge: [forge for minecraft 1.14.4](https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.4-28.1.0/forge-1.14.4-28.1.0-installer.jar)
-	
-
-### Super quick forge setup to make this all easier:
-
-- install forge (above)
-
-- open launcher
-- go to installations tab
-- create a new one
-- name it minecraft.micahtmusic.stream so its easier to remember
-- select the game version from the list named release `1.14.4-forge-28.1.0`
-- save and close the launcher
-- download all the mod jar files and put them in `%appdata%\.minecraft\mods` directory (just create it if it doesn't exist, as long as you already installed forge)
-
-From now on you can pick minecraft.micahtmusic.stream from the launcher versions list, or click Play from the installations tab
-
-
+---
 
 # Known issues
 
@@ -56,7 +90,7 @@ Once they fix the mod for 1.14.4 it will likely go away.
 
 
 
-# Mods I'm Testing
+# Other mods I'm Testing
 
   - https://www.curseforge.com/minecraft/mc-mods/iron-chests
 
@@ -66,56 +100,22 @@ Once they fix the mod for 1.14.4 it will likely go away.
 
   - https://www.curseforge.com/minecraft/mc-mods/light-overlay
 
-  - https://www.curseforge.com/minecraft/mc-mods/corail-tombstone
-
-  - https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl/
-very very nice
-
   - https://www.curseforge.com/minecraft/mc-mods/ruins-structure-spawning-system
 so cool
 
   - https://www.curseforge.com/minecraft/mc-mods/pizzacraft
 pizza!
 
-  - https://www.curseforge.com/minecraft/mc-mods/apotheosis/
-enchants!
-
-  - https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
-world gen
-
-  - https://www.curseforge.com/minecraft/mc-mods/equipment-tooltips
-Stat icons for quickly comparing tools, weapons, and armor
-
   - https://www.curseforge.com/minecraft/mc-mods/ore-excavation
 A lightweight veinminer alternative
 
-  - https://www.curseforge.com/minecraft/mc-mods/the-one-probe
-More immersive alternative for WAILA
-
-  - https://www.curseforge.com/minecraft/mc-mods/simple-farming
-Simple Farming
-
-  - https://www.curseforge.com/minecraft/mc-mods/inventory-sorter
-
-  - https://www.curseforge.com/minecraft/mc-mods/fps-reducer
-FPS Reducer
-Reduce GPU and CPU usage automatically when no user operation exists.
 
 
 
-
-
-# Links for the Lazy
-
-### minecraft.micahtmusic.stream mod pack
+### Old island world mod pack
 
 - After installing [forge 28.1.0](https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.4-28.1.0/forge-1.14.4-28.1.0-installer.jar) download the mod jar files and put them in your `%appdata%\.minecraft\mods` folder
-    - [minecraft.micahtmusic.stream modpack](https://raw.githubusercontent.com/micahlagrange/minecraft.micahtmusic.stream/master/modpacks/minecraft.micahtmusic.stream-mods.rar)
 
-### Aternos mod pack
+- [minecraft.micahtmusic.stream modpack](https://raw.githubusercontent.com/micahlagrange/minecraft.micahtmusic.stream/master/modpacks/minecraft.micahtmusic.stream-mods.rar)
 
-I also have a free aternos server at `multivoxmuse.aternos.me` that shuts itself down after a few minutes, so if we want to play I need to start it.
-
-- After installing [forge 28.1.56](https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.4-28.1.56/forge-1.14.4-28.1.56-installer.jar), download the mod jar files and put them in your `%appdata%\.minecraft\mods` folder:
-    - [aternos modpack](https://raw.githubusercontent.com/micahlagrange/minecraft.micahtmusic.stream/master/modpacks/multivoxmuse-aternos-mods.rar)
-
+It isn't running right now but just ask and we'll do the needful
