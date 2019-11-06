@@ -13,6 +13,7 @@
 - Optifine: If you can use it on your PC, use [this version of optifine](https://optifine.net/adloadx?f=preview_OptiFine_1.14.2_HD_U_F1_pre15.jar&x=c086)
   - Just don't click the ad, OK?
   - Instead of running the jar, just put it in your mods directory
+  - UPDATE: I have added it to the zip file. Delete it if it breaks your minecraft.micahtmusic.stream profile
 
 - Forge: [28.1.56](https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.14.4-28.1.56/forge-1.14.4-28.1.56-installer.jar)
   - Run the jar and install the client, it will just install along side regular minecraft and all the other forge versions
@@ -61,7 +62,7 @@ Added sweet dungeons that we are working on raiding to the bottom level for that
 [the one probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
 Shows what your retical is pointing at
 
-[Simple arming](https://www.curseforge.com/minecraft/mc-mods/simple-farming)
+[Simple Farming](https://www.curseforge.com/minecraft/mc-mods/simple-farming)
 Simple Farming. Right click to harvest and there are new veggies and shit
 
 [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis/)
@@ -77,6 +78,9 @@ Sort a chest or your hotbar, or your inventory
 
 [Equipment tooltips](https://www.curseforge.com/minecraft/mc-mods/equipment-tooltips)
 Stat icons for quickly comparing tools, weapons, and armor
+
+[Ruins](https://www.curseforge.com/minecraft/mc-mods/ruins-structure-spawning-system)
+Generates cool ruins with loot all over the world (maybe too many)
 
 
 ---
@@ -102,9 +106,6 @@ Once they fix the mod for 1.14.4 it will likely go away.
   - https://www.curseforge.com/minecraft/mc-mods/fastworkbench
 
   - https://www.curseforge.com/minecraft/mc-mods/light-overlay
-
-  - https://www.curseforge.com/minecraft/mc-mods/ruins-structure-spawning-system
-so cool
 
   - https://www.curseforge.com/minecraft/mc-mods/pizzacraft
 pizza!
